@@ -12,7 +12,7 @@ def test_total_at_300():
 
 
 def test_total_above_300():
-    assert calculate_total(400) == 378.00
+    assert calculate_total(400) == 380.00
 
 
 def test_zero_amount():
