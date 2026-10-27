@@ -1,5 +1,5 @@
 def calculate_total(amount):
-    gst = amount * 0.05
+    gst = amount * 0.07
     total = amount + gst
     return round(total, 2)
 
